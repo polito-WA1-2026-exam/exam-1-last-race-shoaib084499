@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#f7f8f5"/>
+  <rect x="24" y="24" width="912" height="492" fill="#fff" stroke="#dfe3e8"/>
+  <text x="54" y="72" font-family="Segoe UI, Arial" font-size="18" fill="#2f7568" font-weight="700">PLANNING</text>
+  <text x="54" y="118" font-family="Segoe UI, Arial" font-size="42" fill="#151b24" font-weight="700">64s remaining</text>
+  <text x="54" y="156" font-family="Segoe UI, Arial" font-size="22" fill="#151b24">Centrale to Mercato Vecchio</text>
+  <rect x="54" y="184" width="580" height="280" rx="8" fill="#f7f8f5" stroke="#dfe3e8"/>
+  <g stroke="#d6dbe1" stroke-width="5" stroke-dasharray="9 8">
+    <line x1="104" y1="234" x2="214" y2="234"/>
+    <line x1="214" y1="234" x2="334" y2="234"/>
+    <line x1="214" y1="234" x2="214" y2="334"/>
+    <line x1="334" y1="334" x2="484" y2="334"/>
+    <line x1="484" y1="334" x2="584" y2="334"/>
+  </g>
+  <g stroke="#222d3a" stroke-width="8" stroke-linecap="round">
+    <line x1="104" y1="234" x2="214" y2="234"/>
+    <line x1="214" y1="234" x2="214" y2="334"/>
+  </g>
+  <g fill="#fff" stroke="#19212c" stroke-width="4">
+    <circle cx="104" cy="234" r="12"/>
+    <circle cx="214" cy="234" r="15" fill="#f4d66a"/>
+    <circle cx="334" cy="234" r="12"/>
+    <circle cx="214" cy="334" r="15" fill="#f4d66a"/>
+    <circle cx="334" cy="334" r="12"/>
+    <circle cx="484" cy="334" r="15" fill="#f4d66a"/>
+    <circle cx="584" cy="334" r="12"/>
+  </g>
+  <g font-family="Segoe UI, Arial" font-size="14" fill="#151b24" font-weight="700">
+    <text x="124" y="214">Centrale</text>
+    <text x="234" y="214">Porta Velaria</text>
+    <text x="354" y="214">Crocevia</text>
+    <text x="234" y="318">Fontana Oscura</text>
+    <text x="354" y="318">Torre Cinerea</text>
+    <text x="504" y="318">Campo Eco</text>
+    <text x="604" y="318">Mercato</text>
+  </g>
+  <rect x="670" y="184" width="220" height="280" rx="8" fill="#ffffff" stroke="#dfe3e8"/>
+  <text x="694" y="224" font-family="Segoe UI, Arial" font-size="24" fill="#151b24" font-weight="700">Segments</text>
+  <g font-family="Segoe UI, Arial" font-size="15" fill="#151b24">
+    <rect x="694" y="246" width="168" height="30" rx="5" fill="#eef4f2"/>
+    <text x="706" y="267">Centrale - Porta</text>
+    <rect x="694" y="284" width="168" height="30" rx="5" fill="#eef4f2"/>
+    <text x="706" y="305">Porta - Fontana</text>
+    <rect x="694" y="322" width="168" height="30" rx="5" fill="#ffffff" stroke="#dfe3e8"/>
+    <text x="706" y="343">Fontana - Torre</text>
+    <rect x="694" y="360" width="168" height="30" rx="5" fill="#ffffff" stroke="#dfe3e8"/>
+    <text x="706" y="381">Torre - Campo</text>
+  </g>
+</svg>

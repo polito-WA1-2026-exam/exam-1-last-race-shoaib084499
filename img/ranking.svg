@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#f7f8f5"/>
+  <rect x="180" y="62" width="600" height="416" rx="8" fill="#fff" stroke="#dfe3e8"/>
+  <text x="230" y="122" font-family="Segoe UI, Arial" font-size="18" fill="#2f7568" font-weight="700">GENERAL RANKING</text>
+  <text x="230" y="176" font-family="Segoe UI, Arial" font-size="44" fill="#151b24" font-weight="700">Best results</text>
+  <g font-family="Segoe UI, Arial" font-size="24" fill="#151b24">
+    <rect x="230" y="222" width="500" height="62" fill="#f7f8f5"/>
+    <text x="254" y="262">Alice</text>
+    <text x="626" y="262" font-weight="700">25 coins</text>
+    <rect x="230" y="292" width="500" height="62" fill="#ffffff" stroke="#dfe3e8"/>
+    <text x="254" y="332">Bruno</text>
+    <text x="626" y="332" font-weight="700">18 coins</text>
+    <rect x="230" y="362" width="500" height="62" fill="#ffffff" stroke="#dfe3e8"/>
+    <text x="254" y="402">Carla</text>
+    <text x="638" y="402" font-weight="700">0 coins</text>
+  </g>
+</svg>
