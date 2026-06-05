@@ -30,12 +30,12 @@
 
 ## Main React Components
 
-- `AppRoutes` in `App.jsx`: configures routes and session-aware layout.
-- `Layout` in `App.jsx`: top navigation, login/logout controls, and page shell.
-- `Instructions` in `App.jsx`: public rules page.
-- `Game` in `App.jsx`: manages setup, planning timer, route construction, execution, and result.
-- `NetworkMap` in `App.jsx`: SVG rendering of the network or planning map.
-- `Ranking` in `App.jsx`: displays best scores.
+- `App` in `client/src/App.jsx`: configures application routes.
+- `Layout` in `client/src/components/Layout.jsx`: top navigation, login/logout controls, and page shell.
+- `Instructions` in `client/src/pages/Instructions.jsx`: public rules page.
+- `Game` in `client/src/pages/Game.jsx`: coordinates setup, planning timer, route construction, execution, and result.
+- `NetworkMap` in `client/src/pages/game/NetworkMap.jsx`: SVG rendering of the network or planning map.
+- `Ranking` in `client/src/pages/Ranking.jsx`: displays best scores.
 
 ## Screenshot
 
